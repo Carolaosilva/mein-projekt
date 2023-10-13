@@ -8,89 +8,98 @@ Anforderungen:
 - Die Benutzeroberfläche sollte ansprechend gestaltet sein und eine intuitive  Benutzererfahrung bieten. 
 
 ### 12.10.2023
-○ Was wurde im Projekt heute erledigt?
-- Recherche über das Projekt
+Was wurde im Projekt heute erledigt?
 - Mein-Projekt Repository-Erstellung in GitHub
-- Remote Repository wurde hinzugefügt
+- Remote Repository wurde hinzugefügt auf Master Branch
 
-○ Was sind die nächsten Schritte für das Projekt? 
+Was sind die nächsten Schritte für das Projekt? 
 - Mit der Codierung beginnen
 - Commits machen
 
-○ Was ist noch offen? 
-- Das Layout der Website
+Was ist noch offen? 
+- index.html und Script.js codieren 
 
-○ Was wurde bereits realisiert? 
+Was wurde bereits realisiert? 
 - Mein Thema wird eine ToDo-Liste sein
+- Recherche über das Projekt
 
-○ Welche Ideen sind verworfen worden? 
-- Nein.
+Welche Ideen sind verworfen worden? 
+- Keine.
 
 ### 13.10.2023
-○ Was wurde im Projekt heute erledigt?  
+Was wurde im Projekt heute erledigt? 
+- Neu Repository erstellt
+- Neu Remote Repository wurde hinzugefügt auf Main Branch
+- Index.html und script.js wurden kodiert
+  
+Was sind die nächsten Schritte für das Projekt? 
+- styles.css erstellen
+- eine ToDo Liste erstellen
+  
+Was ist noch offen?
+- mit der Codierung der Datei "styles" beginnen
 
-○ Was sind die nächsten Schritte für das Projekt? 
+Was wurde realisiert? 
+- Es wurde eine Schaltfläche zum "Hinzufügen" neuer Aufgaben sowie zum Bearbeiten, Ankreuzen und Löschen bestehender Aufgaben eingerichtet.  
+- Und die Liste kann der Aufgaben dynamisch aktualisiert werden, ohne dass die Seite neu geladen werden muss. 
 
-○ Was ist noch offen? 
-
-○ Was wurde realisiert? 
-
-○ Welche Ideen wurden verworfen?
+Welche Ideen wurden verworfen?
+- Ich habe das vorherige Repository gelöscht und ein neues angelegt, weil ich mein Repository im Main Branch haben wollte.
 
 ### 16.10.2023
-○ Was wurde im Projekt heute erledigt?  
+Was wurde im Projekt heute erledigt?  
 
-○ Was sind die nächsten Schritte für das Projekt? 
+Was sind die nächsten Schritte für das Projekt? 
 
-○ Was ist noch offen? 
+Was ist noch offen? 
 
-○ Was wurde realisiert? 
+Was wurde realisiert? 
 
-○ Welche Ideen wurden verworfen?
+Welche Ideen wurden verworfen?
 
 ### 17.10.2023
-○ Was wurde im Projekt heute erledigt?  
+Was wurde im Projekt heute erledigt?  
 
-○ Was sind die nächsten Schritte für das Projekt? 
+Was sind die nächsten Schritte für das Projekt? 
 
-○ Was ist noch offen? 
+Was ist noch offen? 
 
-○ Was wurde realisiert? 
+Was wurde realisiert? 
 
-○ Welche Ideen wurden verworfen?
+Welche Ideen wurden verworfen?
 
 ### 18.10.2023
-○ Was wurde im Projekt heute erledigt?  
+Was wurde im Projekt heute erledigt?  
 
-○ Was sind die nächsten Schritte für das Projekt? 
+Was sind die nächsten Schritte für das Projekt? 
 
-○ Was ist noch offen? 
+Was ist noch offen? 
 
-○ Was wurde realisiert? 
+Was wurde realisiert? 
 
-○ Welche Ideen wurden verworfen?
+Welche Ideen wurden verworfen?
 
 ### 19.10.2023
-○ Was wurde im Projekt heute erledigt?  
+Was wurde im Projekt heute erledigt?  
 
-○ Was sind die nächsten Schritte für das Projekt? 
+Was sind die nächsten Schritte für das Projekt? 
 
-○ Was ist noch offen? 
+Was ist noch offen? 
 
-○ Was wurde realisiert? 
+Was wurde realisiert? 
 
-○ Welche Ideen wurden verworfen?
+Welche Ideen wurden verworfen?
 
 ### 20.10.2023
-○ Was wurde im Projekt heute erledigt?  
+Was wurde im Projekt heute erledigt?  
 
-○ Was sind die nächsten Schritte für das Projekt? 
+Was sind die nächsten Schritte für das Projekt? 
 
-○ Was ist noch offen? 
+Was ist noch offen? 
 
-○ Was wurde realisiert? 
+Was wurde realisiert? 
 
-○ Welche Ideen wurden verworfen?
+Welche Ideen wurden verworfen?
 
 ### 23.10.2023
-○ Projektpräsentation.
+Projektpräsentation.
