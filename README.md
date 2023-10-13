@@ -8,15 +8,23 @@ Anforderungen:
 - Die Benutzeroberfläche sollte ansprechend gestaltet sein und eine intuitive  Benutzererfahrung bieten. 
 
 ### 12.10.2023
-○ Was wurde im Projekt heute erledigt?  
+○ Was wurde im Projekt heute erledigt?
+- Recherche über das Projekt
+- Mein-Projekt Repository-Erstellung in GitHub
+- Remote Repository wurde hinzugefügt
 
 ○ Was sind die nächsten Schritte für das Projekt? 
+- Mit der Codierung beginnen
+- Commits machen
 
 ○ Was ist noch offen? 
+- Das Layout der Website
 
-○ Was wurde realisiert? 
+○ Was wurde bereits realisiert? 
+- Mein Thema wird eine ToDo-Liste sein
 
-○ Welche Ideen wurden verworfen? 
+○ Welche Ideen sind verworfen worden? 
+- Nein.
 
 ### 13.10.2023
 ○ Was wurde im Projekt heute erledigt?  
