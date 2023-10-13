@@ -1,5 +1,7 @@
+// Array zum Speichern der Aufgaben
 let tasks = [];
 
+// Funktion zum Hinzufügen einer neuen Aufgabe
 function addTask() {
   const taskInput = document.getElementById('taskInput');
   const taskText = taskInput.value.trim();
@@ -11,6 +13,7 @@ function addTask() {
   }
 }
 
+// Funktion zum Rendern der Aufgabenliste
 function renderTasks() {
   const taskList = document.getElementById('taskList');
   taskList.innerHTML = '';
@@ -27,6 +30,7 @@ function renderTasks() {
   });
 }
 
+// Funktion zum Bearbeiten einer Aufgabe
 function editTask(index) {
   const newTaskText = prompt('Neuen Aufgabentext eingeben', tasks[index]);
 
@@ -36,14 +40,17 @@ function editTask(index) {
   }
 }
 
+// Funktion zum Abhaken einer Aufgabe
 function toggleTask(index) {
   tasks[index] = `✓ ${tasks[index]}`;
   renderTasks();
 }
 
+// Funktion zum Löschen einer Aufgabe
 function deleteTask(index) {
   tasks.splice(index, 1);
   renderTasks();
 }
 
+// Initialisierung
 renderTasks();
