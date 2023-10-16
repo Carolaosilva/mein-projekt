@@ -55,7 +55,7 @@ Was wurde im Projekt heute erledigt?
 
 Was sind die nächsten Schritte für das Projekt? 
 - Bearbeiten am Layout der Liste: Füllung, Padding, Größe des Zwischenraums zwischen den Zeilen, etc.
-- Hinzufügen von Daten, um die Liste übersichtlicher zu gestalten
+- Verbesserung des Layouts, um die Liste übersichtlicher zu gestalten.
 
 Was ist noch offen? 
 - Ich konnte das Aufgabenfeld (Task Input) oder der Button "Hinzufügen" auf der Website nicht zentrieren.
