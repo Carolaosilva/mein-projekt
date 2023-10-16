@@ -37,7 +37,7 @@ Was sind die nächsten Schritte für das Projekt?
 - eine ToDo Liste erstellen
   
 Was ist noch offen?
-- mit der Codierung der Datei "styles" beginnen
+- mit der Codierung der Datei "styles" beginnen.
 
 Was wurde realisiert? 
 - Es wurde eine Schaltfläche zum "Hinzufügen" neuer Aufgaben sowie zum Bearbeiten, Ankreuzen und Löschen bestehender Aufgaben eingerichtet.  
@@ -48,14 +48,30 @@ Welche Ideen wurden verworfen?
 
 ### 16.10.2023
 Was wurde im Projekt heute erledigt?  
+- Das Logo wurde ausgewählt
+- Website Logo-Bild hinzugefügt
+- Text: Titel und Slogan hinzugefügt
+- Index.html und script.js wurden weiter kodiert (updated)
 
 Was sind die nächsten Schritte für das Projekt? 
+- Bearbeiten am Layout der Liste: Füllung, Padding, Größe des Zwischenraums zwischen den Zeilen, etc.
+- Hinzufügen von Daten, um die Liste übersichtlicher zu gestalten
 
 Was ist noch offen? 
+- Ich konnte das Aufgabenfeld (Task Input) oder der Button "Hinzufügen" auf der Website nicht zentrieren.
+Der Code hat nicht funktioniert.
 
 Was wurde realisiert? 
+- Text H2 zentrieren
+- Logo wurde zentriert
+- Definition der Logogröße
+- Text H3 zentrieren
+- Hintergrundfarbe der Liste ändern
+- Hintergrundfarbe von Schaltflächen ändern
+- paddings wurden bearbeiten
 
 Welche Ideen wurden verworfen?
+- Eine Schaltfläche "Jetzt starten".
 
 ### 17.10.2023
 Was wurde im Projekt heute erledigt?  
