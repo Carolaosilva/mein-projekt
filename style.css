@@ -86,6 +86,7 @@ img {
   
   li button.editButton {
     background-color: #2ea7f8;
+    margin-right: 2px;
   }
 
   li button.deleteButton {
