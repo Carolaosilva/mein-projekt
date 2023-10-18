@@ -22,3 +22,7 @@ function renderTasks() {
         checkbox.checked = task.completed;
         checkbox.addEventListener('change', () => toggleTask(index));
         listItem.appendChild(checkbox);
+
+        const taskText = document.createElement('span');
+    taskText.textContent = task.completed ? `✓ ${task.text}` : task.text;
+    listItem.appendChild(taskText);
