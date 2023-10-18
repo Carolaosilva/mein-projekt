@@ -12,19 +12,19 @@ function addTask() {
 }
 
 function renderTasks() {
-    const taskList = document.getElementById('taskList');
-    taskList.innerHTML = '';
+  const taskList = document.getElementById('taskList');
+  taskList.innerHTML = '';
 
-    tasks.forEach((task, index) => {
-        const listItem = document.createElement('li');
-        const checkbox = document.createElement('input');
-        checkbox.type = 'checkbox';
-        checkbox.checked = task.completed;
-        checkbox.addEventListener('change', () => toggleTask(index));
-        listItem.appendChild(checkbox);
+  tasks.forEach((task, index) => {
+    const listItem = document.createElement('li');
+    const checkbox = document.createElement('input');
+    checkbox.type = 'checkbox';
+    checkbox.checked = task.completed;
+    checkbox.addEventListener('change', () => toggleTask(index));
+    listItem.appendChild(checkbox);
 
-        const taskText = document.createElement('span');
-    taskText.textContent = task.completed ? `✓ ${task.text}` : task.text;
+    const taskText = document.createElement('span');
+    taskText.textContent = task.text;
     listItem.appendChild(taskText);
 
     const editButton = document.createElement('button');
@@ -56,6 +56,6 @@ function editTask(index, taskTextElement) {
 }
 
 function deleteTask(index) {
-    tasks.splice(index, 1);
-    renderTasks();
-  }
+  tasks.splice(index, 1);
+  renderTasks();
+}
