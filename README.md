@@ -76,16 +76,16 @@ Welche Ideen wurden verworfen?
 ### 17.10.2023
 Was wurde im Projekt heute erledigt?  
 - script.js wurde bearbeitet und aktualisiert
+- den Funktionscode von "Kästchen abhacken" wurde bearbeitet 
 - styles.css wurde bearbeitet und aktualisiert
 - das Aufgabenfeld (Task Input) und der Button "Hinzufügen" wurden auf der Website zentriert
-- den Funktionscode: Kästchen abhacken wurde bearbeitet 
 
 Was sind die nächsten Schritte für das Projekt? 
-- styles weiter bearbeiten
-- script mit die liste funktionen weiter bearbeiten
+- style.css weiter bearbeiten
+- script.js mit die liste funktionen weiter bearbeiten, damit das Häkchen im Kästchen angezeigt wird.
 
 Was ist noch offen? 
-- Es ist immer noch nicht gelungen, das Häkchen-Symbol innerhalb des Kontrollkästchens zu haben. Ich muss die richtige Funktion finden und sie codieren.
+- Das Kästchen sollt abgehackt werden. Ich muss die richtige Funktion finden und sie codieren.
 
 Was wurde realisiert? 
 - Ahmet hat mir geholfen das Aufgabenfeld (Task Input) und der Button "Hinzufügen" auf der Website zu zentrieren, mit den code align-text: center
