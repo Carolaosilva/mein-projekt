@@ -51,7 +51,7 @@ function editTask(index, taskTextElement) {
   const newText = prompt('Neuen Aufgabentext eingeben:', currentText);
   if (newText !== null && newText.trim() !== '') {
     tasks[index].text = newText.trim();
-    taskTextElement.textContent = tasks[index].completed ? `✓ ${newText}` : newText;
+    taskTextElement.textContent = tasks[index].text;
   }
 }
 
