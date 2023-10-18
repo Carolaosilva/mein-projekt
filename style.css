@@ -70,8 +70,13 @@ img {
     text-align: left;
   }
   
+  li input[type="checkbox"] {
+    margin-right: 10px;
+  }
+  
   li span {
-    flex-grow: 1;
+    flex-grow: 2;
+    margin-right: 10px;
   }
   
   li button {
