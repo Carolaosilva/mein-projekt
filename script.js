@@ -29,7 +29,7 @@ function renderTasks() {
 
     const editButton = document.createElement('button');
     editButton.textContent = 'Bearbeiten';
-    editButton.addEventListener('click', () => editTask(index));
+    editButton.addEventListener('click', () => editTask(index, taskText));
     listItem.appendChild(editButton);
 
     const deleteButton = document.createElement('button');
@@ -42,15 +42,20 @@ function renderTasks() {
 }
 
 function toggleTask(index) {
-    tasks[index].completed = !tasks[index].completed;
-    renderTasks();
-  }
+  tasks[index].completed = !tasks[index].completed;
+  renderTasks();
+}
 
-  function editTask(index) {
-    renderTasks();
+function editTask(index, taskTextElement) {
+  const currentText = tasks[index].text;
+  const newText = prompt('Neuen Aufgabentext eingeben:', currentText);
+  if (newText !== null && newText.trim() !== '') {
+    tasks[index].text = newText.trim();
+    taskTextElement.textContent = tasks[index].completed ? `✓ ${newText}` : newText;
   }
+}
 
-  function deleteTask(index) {
+function deleteTask(index) {
     tasks.splice(index, 1);
     renderTasks();
   }
