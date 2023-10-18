@@ -42,7 +42,7 @@ function editTask(index) {
 
 // Funktion zum Abhaken einer Aufgabe
 function toggleTask(index) {
-  tasks[index] = `✓ ${tasks[index]}`;
+  tasks[index] = tasks[index].startsWith("✓") ? tasks[index].slice(2) : `✓ ${tasks[index]}`;
   renderTasks();
 }
 
