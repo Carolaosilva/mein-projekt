@@ -31,3 +31,12 @@ function renderTasks() {
     editButton.textContent = 'Bearbeiten';
     editButton.addEventListener('click', () => editTask(index));
     listItem.appendChild(editButton);
+
+    const deleteButton = document.createElement('button');
+    deleteButton.textContent = 'Löschen';
+    deleteButton.addEventListener('click', () => deleteTask(index));
+    listItem.appendChild(deleteButton);
+
+    taskList.appendChild(listItem);
+  });
+}
