@@ -26,3 +26,8 @@ function renderTasks() {
         const taskText = document.createElement('span');
     taskText.textContent = task.completed ? `✓ ${task.text}` : task.text;
     listItem.appendChild(taskText);
+
+    const editButton = document.createElement('button');
+    editButton.textContent = 'Bearbeiten';
+    editButton.addEventListener('click', () => editTask(index));
+    listItem.appendChild(editButton);
