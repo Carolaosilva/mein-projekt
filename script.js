@@ -10,3 +10,7 @@ function addTask() {
     renderTasks();
   }
 }
+
+function renderTasks() {
+    const taskList = document.getElementById('taskList');
+    taskList.innerHTML = '';
