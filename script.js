@@ -29,11 +29,13 @@ function renderTasks() {
 
     const editButton = document.createElement('button');
     editButton.textContent = 'Bearbeiten';
+    editButton.classList.add('editButton');
     editButton.addEventListener('click', () => editTask(index, taskText));
     listItem.appendChild(editButton);
 
     const deleteButton = document.createElement('button');
     deleteButton.textContent = 'Löschen';
+    deleteButton.classList.add('deleteButton');
     deleteButton.addEventListener('click', () => deleteTask(index));
     listItem.appendChild(deleteButton);
 

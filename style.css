@@ -69,14 +69,9 @@ img {
     align-items: center;
     text-align: left;
   }
-  
-  li input[type="checkbox"] {
-    margin-right: 10px;
-    color:#35f151 ;
-  }
 
   li span {
-    flex-grow: 2;
+    flex-grow: 1;
     margin-right: 10px;
   }
   
@@ -90,16 +85,15 @@ img {
     cursor: pointer;
   }
   
-  .edit-button {
-    background-color: red;
-    color: white;
-  }
-  
-
   li button.edit {
     background-color: #2196f3;
   }
-  
+
   li button:hover {
     opacity: 0.8;
+  }
+
+  li input[type="checkbox"] {
+    margin-right: 10px;
+    color:#35f151 ;
   }
