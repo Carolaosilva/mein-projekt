@@ -43,7 +43,7 @@ img {
     font-size: 16px;
     border: none;
     border-radius: 5px;
-    background-color: #4caf50;
+    background-color: #35a6f1;
     color: #fff;
     cursor: pointer;
   }
@@ -60,7 +60,7 @@ img {
   }
   
   li {
-    background-color: #35a6f1;
+    background-color: #fff;
     padding: 10px;
     width: 1000px;
     border-radius: 15px;
@@ -72,8 +72,9 @@ img {
   
   li input[type="checkbox"] {
     margin-right: 10px;
+    color:#35f151 ;
   }
-  
+
   li span {
     flex-grow: 2;
     margin-right: 10px;
@@ -89,6 +90,12 @@ img {
     cursor: pointer;
   }
   
+  .edit-button {
+    background-color: red;
+    color: white;
+  }
+  
+
   li button.edit {
     background-color: #2196f3;
   }
