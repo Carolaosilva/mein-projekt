@@ -40,3 +40,8 @@ function renderTasks() {
     taskList.appendChild(listItem);
   });
 }
+
+function toggleTask(index) {
+    tasks[index].completed = !tasks[index].completed;
+    renderTasks();
+  }
