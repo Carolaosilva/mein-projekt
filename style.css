@@ -43,13 +43,13 @@ img {
     font-size: 16px;
     border: none;
     border-radius: 5px;
-    background-color: #35a6f1;
+    background-color: #2ea7f8;
     color: #fff;
     cursor: pointer;
   }
   
   button:hover {
-    background-color: #45a049;
+    background-color: #2995dc;
   }
   
   ul {
@@ -76,17 +76,20 @@ img {
   }
   
   li button {
-    padding: 5px 10px;
+    padding: 8px 10px;
     font-size: 14px;
-    background-color: #fafe03;
     color: #1c0101;
     border: none;
-    border-radius: 10px;
+    border-radius: 15px;
     cursor: pointer;
   }
   
-  li button.edit {
-    background-color: #2196f3;
+  li button.editButton {
+    background-color: #2ea7f8;
+  }
+
+  li button.deleteButton {
+    background-color: #fafe03;
   }
 
   li button:hover {
@@ -95,5 +98,4 @@ img {
 
   li input[type="checkbox"] {
     margin-right: 10px;
-    color:#35f151 ;
   }
