@@ -49,3 +49,8 @@ function toggleTask(index) {
   function editTask(index) {
     renderTasks();
   }
+
+  function deleteTask(index) {
+    tasks.splice(index, 1);
+    renderTasks();
+  }
