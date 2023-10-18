@@ -75,14 +75,24 @@ Welche Ideen wurden verworfen?
 
 ### 17.10.2023
 Was wurde im Projekt heute erledigt?  
+- script.js wurde bearbeitet und aktualisiert
+- styles.css wurde bearbeitet und aktualisiert
+- das Aufgabenfeld (Task Input) und der Button "Hinzufügen" wurden auf der Website zentriert
+- den Funktionscode: Kästchen abhacken wurde bearbeitet 
 
 Was sind die nächsten Schritte für das Projekt? 
+- styles weiter bearbeiten
+- script mit die liste funktionen weiter bearbeiten
 
 Was ist noch offen? 
+- Es ist immer noch nicht gelungen, das Häkchen-Symbol innerhalb des Kontrollkästchens zu haben. Ich muss die richtige Funktion finden und sie codieren.
 
 Was wurde realisiert? 
+- Ahmet hat mir geholfen das Aufgabenfeld (Task Input) und der Button "Hinzufügen" auf der Website zu zentrieren, mit den code align-text: center
+- Ich habe einen neuen Code für das Häkchen-Symbol geschrieben und den Fehler behoben. Fehler: es wurde mehr als 1 Häkchen-Symbol für dieselbe Aufgabe angezeigt
 
 Welche Ideen wurden verworfen?
+- Für diese Projekt, werde ich nicht mit den "Optionale Anforderungen" fortfahren.
 
 ### 18.10.2023
 Was wurde im Projekt heute erledigt?  
