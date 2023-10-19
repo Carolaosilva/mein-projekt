@@ -105,10 +105,12 @@ Was wurde im Projekt heute erledigt?
 - Die Interaktive ToDo-Liste wurde erstellt.
 
 Was sind die nächsten Schritte für das Projekt? 
+- Fehlerbehebung von dem Funktionscode der Button "Bearbeiten" (erledigt)
 - Ich fange an, meine Präsentation vorzubereiten
 
 Was ist noch offen? 
-- Eine ToDo-Liste schreiben
+- Der Button "Bearbeitung" funktioniert nicht (erledigt)
+- Eine ToDo-Liste zum schreiben
 
 Was wurde realisiert? 
 - Die Padding des Listenfeldes war früher blau und ist jetzt weiß
@@ -119,7 +121,7 @@ Was wurde realisiert?
 - More space between checkbox and text
 
 Welche Ideen wurden verworfen?
-- 
+- Ich ändere den Funktionscode der List Button "Bearbeiten", damit der Text in der Prompt erscheint, wenn ich ihn bearbeiten möchte.
 
 ### 19.10.2023
 Was wurde im Projekt heute erledigt?  
