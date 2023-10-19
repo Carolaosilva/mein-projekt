@@ -34,7 +34,7 @@ Was wurde im Projekt heute erledigt?
   
 Was sind die nächsten Schritte für das Projekt? 
 - styles.css erstellen
-- eine ToDo Liste erstellen
+- script.js weiter bearbeiten
   
 Was ist noch offen?
 - mit der Codierung der Datei "styles" beginnen.
@@ -68,7 +68,7 @@ Was wurde realisiert?
 - Text H3 zentrieren
 - Hintergrundfarbe der Liste ändern
 - Hintergrundfarbe von Schaltflächen ändern
-- paddings wurden bearbeiten
+- Paddings wurden bearbeiten
 
 Welche Ideen wurden verworfen?
 - Eine Schaltfläche "Jetzt starten".
@@ -96,14 +96,30 @@ Welche Ideen wurden verworfen?
 
 ### 18.10.2023
 Was wurde im Projekt heute erledigt?  
+- Ich habe meine style.css fertig kodiert. Layout is done! :)))
+- Ich habe ein komplett neues Script.js programmiert
+- Einige Funktionen wurde bearbeitet: z.B. Button.Hover, 
+- Funktionen sind hinzugefügt: z.B. classList editButton and deleteButton, edit button Text-> Neuen Aufgabentext eingeben
+- Fehler ist behoben -> Das Häkchen wird im Kästchen angezeigt.
+- Die Anforderungen sind erfüllt: neue Aufgaben hinzuzufügen, bestehende Aufgaben zu bearbeiten, abzuhaken und zu löschen.
+- Die Interaktive ToDo-Liste wurde erstellt.
 
 Was sind die nächsten Schritte für das Projekt? 
+- Ich fange an, meine Präsentation vorzubereiten
 
 Was ist noch offen? 
+- Eine ToDo-Liste schreiben
 
 Was wurde realisiert? 
+- Die Padding des Listenfeldes war früher blau und ist jetzt weiß
+- Die Liste und Padding wurden zentralisiert
+- Die Position des Listentextes war zentriert und befindet sich nun links
+- The space between edit and delete button
+- Website color backgroung update
+- More space between checkbox and text
 
 Welche Ideen wurden verworfen?
+- 
 
 ### 19.10.2023
 Was wurde im Projekt heute erledigt?  
