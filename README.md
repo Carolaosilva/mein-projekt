@@ -138,6 +138,7 @@ Was sind die nächsten Schritte für das Projekt?
 
 Was ist noch offen? 
 - Fertigstellung der Präsentation
+- Abschließende Überprüfung der gesamten Dokumentation
 
 Was wurde realisiert? 
 - Vorbereitung und Planung der Präsentation
@@ -147,14 +148,20 @@ Welche Ideen wurden verworfen?
 
 ### 20.10.2023
 Was wurde im Projekt heute erledigt?  
+- Abschließende Überprüfung der Präsentation
+- Abschließende Überprüfung der gesamten Dokumentation
 
 Was sind die nächsten Schritte für das Projekt? 
+- Präsentation des Abschlussprojekts
 
 Was ist noch offen? 
+- Nichts
 
 Was wurde realisiert? 
-
+- Fertigstellung der Präsentation
+  
 Welche Ideen wurden verworfen?
+- Keine
 
 ### 23.10.2023
 Projektpräsentation.
