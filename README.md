@@ -13,7 +13,7 @@ Was wurde im Projekt heute erledigt?
 - Remote Repository wurde hinzugefügt auf Master Branch
 
 Was sind die nächsten Schritte für das Projekt? 
-- Mit der Codierung beginnen
+- Mit der Programmierung der index-Datei in HTML beginnen 
 - Commits machen
 
 Was ist noch offen? 
@@ -30,14 +30,14 @@ Welche Ideen sind verworfen worden?
 Was wurde im Projekt heute erledigt? 
 - Neu Repository erstellt
 - Neu Remote Repository wurde hinzugefügt auf Main Branch
-- Index.html und script.js wurden kodiert
+- Index.html und script.js wurden erstellt
   
 Was sind die nächsten Schritte für das Projekt? 
 - styles.css erstellen
 - script.js weiter bearbeiten
   
 Was ist noch offen?
-- mit der Codierung der Datei "styles" beginnen.
+- den Code der Datei "styles" weiter bearbeiten.
 
 Was wurde realisiert? 
 - Es wurde eine Schaltfläche zum "Hinzufügen" neuer Aufgaben sowie zum Bearbeiten, Ankreuzen und Löschen bestehender Aufgaben eingerichtet.  
@@ -125,14 +125,25 @@ Welche Ideen wurden verworfen?
 
 ### 19.10.2023
 Was wurde im Projekt heute erledigt?  
+- Ich habe die Projekt-Präsentation vorbereitet
+  1. ablauf der Präsentation
+  2. Die Seiten/Folien geplant
+  3. Texte als Stichtpunkte geschrieben
 
 Was sind die nächsten Schritte für das Projekt? 
+- Die Folien/Seiten anlegen
+  1. Texte korrekt formullieren
+  2. Grafische Gestaltund der Seiten
+  3. Präsentation übergänge
 
 Was ist noch offen? 
+- Fertigstellung der Präsentation
 
 Was wurde realisiert? 
+- Vorbereitung und Planung der Präsentation
 
 Welche Ideen wurden verworfen?
+- Keine
 
 ### 20.10.2023
 Was wurde im Projekt heute erledigt?  
