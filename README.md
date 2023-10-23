@@ -10,14 +10,13 @@ Anforderungen:
 ### 12.10.2023
 Was wurde im Projekt heute erledigt?
 - Mein-Projekt Repository-Erstellung in GitHub
-- Remote Repository wurde hinzugefügt auf Master Branch
+- Remote Repository wurde hinzugefügt auf MASTER Branch
 
 Was sind die nächsten Schritte für das Projekt? 
 - Mit der Programmierung der index-Datei in HTML beginnen 
-- Commits machen
 
 Was ist noch offen? 
-- index.html und Script.js codieren 
+- Eine Low Fidelity-Prototype von der Oberfläche der Webanwendung mit Figma zu skizzieren. 
 
 Was wurde bereits realisiert? 
 - Mein Thema wird eine ToDo-Liste sein
@@ -29,37 +28,40 @@ Welche Ideen sind verworfen worden?
 ### 13.10.2023
 Was wurde im Projekt heute erledigt? 
 - Neu Repository erstellt
-- Neu Remote Repository wurde hinzugefügt auf Main Branch
-- Index.html und script.js wurden erstellt
+- Neu Remote Repository wurde hinzugefügt auf MAIN Branch
+- Low Fidelity-Prototype wurde mit Figma skizziert
+- Index.html wurde erstellt/programmiert
   
 Was sind die nächsten Schritte für das Projekt? 
-- styles.css erstellen
-- script.js weiter bearbeiten
+- styles.css zu erstellen
   
 Was ist noch offen?
-- den Code der Datei "styles" weiter bearbeiten.
+- Das Logo Bild
+- Den Text und Slogan
 
 Was wurde realisiert? 
-- Es wurde eine Schaltfläche zum "Hinzufügen" neuer Aufgaben sowie zum Bearbeiten, Ankreuzen und Löschen bestehender Aufgaben eingerichtet.  
-- Und die Liste kann der Aufgaben dynamisch aktualisiert werden, ohne dass die Seite neu geladen werden muss. 
+- Das Listen-Layout
+- Die Interface der Webanwendung
+- "Neue Aufgabe eingeben" Feld
+- Hinzufügen Button
 
 Welche Ideen wurden verworfen?
-- Ich habe das vorherige Repository gelöscht und ein neues angelegt, weil ich mein Repository im Main Branch haben wollte.
+- Ich habe das vorherige Repository gelöscht und ein neues im MAIN Branch angelegt, weil denn so steht es in den Anforderungen des Projekts.
 
 ### 16.10.2023
 Was wurde im Projekt heute erledigt?  
 - Das Logo wurde ausgewählt
 - Website Logo-Bild hinzugefügt
 - Text: Titel und Slogan hinzugefügt
-- Index.html und script.js wurden weiter kodiert (updated)
+- styles.css wurde erstellt/programmiert
 
 Was sind die nächsten Schritte für das Projekt? 
 - Bearbeiten am Layout der Liste: Füllung, Padding, Größe des Zwischenraums zwischen den Zeilen, etc.
 - Verbesserung des Layouts, um die Liste übersichtlicher zu gestalten.
 
 Was ist noch offen? 
-- Ich konnte das Aufgabenfeld (Task Input) oder der Button "Hinzufügen" auf der Website nicht zentrieren.
-Der Code hat nicht funktioniert.
+- Die Farben, die Schriftarten und andere visuelle Aspekte der Anwendung festzulegen.
+- Ich konnte das Aufgabenfeld (Task Input) oder der Button "Hinzufügen" auf der Website nicht zentrieren. Der Code hat nicht funktioniert.
 
 Was wurde realisiert? 
 - Text H2 zentrieren
@@ -75,41 +77,40 @@ Welche Ideen wurden verworfen?
 
 ### 17.10.2023
 Was wurde im Projekt heute erledigt?  
-- script.js wurde bearbeitet und aktualisiert
-- den Funktionscode von "Kästchen abhacken" wurde bearbeitet 
 - styles.css wurde bearbeitet und aktualisiert
-- das Aufgabenfeld (Task Input) und der Button "Hinzufügen" wurden auf der Website zentriert
+- das Aufgabenfeld (Task Input) und der Button "Hinzufügen" wurden auf style.css zentriert, mit den code align-text: center.
+- script.js wurde erstellt/programmiert.
 
 Was sind die nächsten Schritte für das Projekt? 
 - style.css weiter bearbeiten
-- script.js mit die liste funktionen weiter bearbeiten, damit das Häkchen im Kästchen angezeigt wird.
+- script.js mit die liste funktionen weiter bearbeiten
 
 Was ist noch offen? 
-- Das Kästchen sollt abgehackt werden. Ich muss die richtige Funktion finden und sie codieren.
+- Das Kästchen sollt abgehackt werden. Ich muss die richtige Funktion finden und sie programmieren.
 
 Was wurde realisiert? 
-- Ahmet hat mir geholfen das Aufgabenfeld (Task Input) und der Button "Hinzufügen" auf der Website zu zentrieren, mit den code align-text: center
-- Ich habe einen neuen Code für das Häkchen-Symbol geschrieben und den Fehler behoben. Fehler: es wurde mehr als 1 Häkchen-Symbol für dieselbe Aufgabe angezeigt
+- Es wurde eine Schaltfläche zum Bearbeiten, Ankreuzen und Löschen bestehender Aufgaben eingerichtet.  
+- Die Liste kann der Aufgaben dynamisch aktualisiert werden, ohne dass die Seite neu geladen werden muss. 
 
 Welche Ideen wurden verworfen?
 - Für diese Projekt, werde ich nicht mit den "Optionale Anforderungen" fortfahren.
 
 ### 18.10.2023
 Was wurde im Projekt heute erledigt?  
-- Ich habe meine style.css fertig kodiert. Layout is done! :)))
+- Ich habe meine style.css fertig programmiert. Layout is done! :)))
 - Ich habe ein komplett neues Script.js programmiert
 - Einige Funktionen wurde bearbeitet: z.B. Button.Hover, 
 - Funktionen sind hinzugefügt: z.B. classList editButton and deleteButton, edit button Text-> Neuen Aufgabentext eingeben
-- Fehler ist behoben -> Das Häkchen wird im Kästchen angezeigt.
+- Den Fehler Funktionscode von "Kästchen abhacken" ist behoben -> Das Häkchen wird im Kästchen angezeigt. 
 - Die Anforderungen sind erfüllt: neue Aufgaben hinzuzufügen, bestehende Aufgaben zu bearbeiten, abzuhaken und zu löschen.
 - Die Interaktive ToDo-Liste wurde erstellt.
 
 Was sind die nächsten Schritte für das Projekt? 
-- Fehlerbehebung von dem Funktionscode der Button "Bearbeiten" (erledigt)
+- Fehlerbehebung von dem Funktionscode der Button "Bearbeiten" 
 - Ich fange an, meine Präsentation vorzubereiten
 
 Was ist noch offen? 
-- Der Button "Bearbeitung" funktioniert nicht (erledigt)
+- Bei der Bearbeitung/Änderung der Aufgabenliste wurde im Prompt/Bearbeitungsfeld der Aufgaben-Text nicht angezeigt.
 - Eine ToDo-Liste zum schreiben
 
 Was wurde realisiert? 
@@ -121,10 +122,11 @@ Was wurde realisiert?
 - More space between checkbox and text
 
 Welche Ideen wurden verworfen?
-- Ich ändere den Funktionscode der List Button "Bearbeiten", damit der Text in der Prompt erscheint, wenn ich ihn bearbeiten möchte.
+- Den alten Funktionscode der List Button "Bearbeiten" wurde verworfen, damit der Text in der Prompt erscheint, wenn ich ihn bearbeiten möchte.
 
 ### 19.10.2023
-Was wurde im Projekt heute erledigt?  
+Was wurde im Projekt heute erledigt? 
+- script.js wurde bearbeitet und aktualisiert 
 - Ich habe die Projekt-Präsentation vorbereitet
   1. ablauf der Präsentation
   2. Die Seiten/Folien geplant
